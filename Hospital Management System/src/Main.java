@@ -106,7 +106,13 @@ public class Main
                 int t= sc.nextInt();
                 while(t!=0)
                 {
+                    if(t==1)
+                    {
 
+                    }
+                    else {
+                        break;
+                    }
                 }
             }
             else
